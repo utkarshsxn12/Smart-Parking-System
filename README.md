@@ -35,7 +35,7 @@ The system focuses on **efficiency, real-time decision-making, and a user-friend
 - PHP  
 
 ### Database
-- XAMPP SQL Server  
+- SQL Server  
 
 ### Payment (Demo)
 - UPI QR Code–based simulated payment flow  
